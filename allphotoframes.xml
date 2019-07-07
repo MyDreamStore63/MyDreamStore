@@ -4,4 +4,20 @@
 <applink>market://details?id=com.mydreamstore.photoframes.flower</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/flower.png</appicon>
 </photography>
+    <photography>
+<apptitle>Love Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.love</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/love.png</appicon>
+</photography>
+        <photography>
+<apptitle>Garden Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.garden</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/garden.png</appicon>
+</photography>
+    <photography>
+<apptitle>Good Morning Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.goodmorning</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/goodmorning.png</appicon>
+</photography>
+    
 </photographyapps>
