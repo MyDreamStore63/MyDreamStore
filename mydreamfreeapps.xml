@@ -1,9 +1,9 @@
 <photographyapps>  
    
     <photography>
-<apptitle></apptitle>
-<applink></applink>
-<appicon></appicon>
+<apptitle>All Photo Frames Editor</apptitle>
+<applink>market://details?id=com.mydreamstore.allphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/photoframes.png</appicon>
 </photography>
    
 </photographyapps>
