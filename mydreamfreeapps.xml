@@ -1,10 +1,5 @@
 <photographyapps>  
-   <photography>
-<apptitle>Bakrid Eid Mubarak 2019 Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.bakrid</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/bakrid.PNG</appicon>
-</photography>
-    <photography>
+ <photography>
 <apptitle>India Independence Day Photo Frames 2019</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.independenceday</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/indiependence.PNG</appicon>
