@@ -1,15 +1,5 @@
 <photographyapps>  
- <photography>
-<apptitle>India Independence Day Photo Frames 2019</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.independenceday</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/indiependence.PNG</appicon>
-</photography>
-        <photography>
-<apptitle>Raksha Bandhan Photo Frames 2019</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.rakshabandhan</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/rakshabandhan.png</appicon>
-</photography>
-    <photography>
+<photography>
 <apptitle>All Photo Frames Editor</apptitle>
 <applink>market://details?id=com.mydreamstore.allphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/photoframes.png</appicon>
