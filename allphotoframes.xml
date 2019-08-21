@@ -1,4 +1,9 @@
-<photographyapps>  
+<photographyapps> 
+    <photography>
+<apptitle>Janmashtami Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.janmashtami</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/janmashtami.png</appicon>
+</photography>
 <photography>
 <apptitle>Flower Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.flower</applink>
