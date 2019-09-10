@@ -14,6 +14,11 @@
 <applink>market://details?id=com.mydreamstore.photoframes.navratri</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/navratri.PNG</appicon>
 </photography>
+ <photography>
+<apptitle>Dussehra Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.dussehra</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/dussehra.png</appicon>
+</photography>
 <photography>
 <apptitle>All Photo Frames Editor</apptitle>
 <applink>market://details?id=com.mydreamstore.allphotoframes</applink>
