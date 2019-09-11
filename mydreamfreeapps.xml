@@ -20,6 +20,11 @@
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/dussehra.png</appicon>
 </photography>
 <photography>
+<apptitle>Durga Maa Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.durgamaa</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/durgamaa.PNG</appicon>
+</photography>         
+<photography>
 <apptitle>All Photo Frames Editor</apptitle>
 <applink>market://details?id=com.mydreamstore.allphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/photoframes.png</appicon>
