@@ -1,15 +1,5 @@
 <photographyapps> 
-    <photography>
-<apptitle>Happy Onam 2019 Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.happyonam</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/happyonam.PNG</appicon>
-</photography>
 <photography>
-<apptitle>Ganesh Chaturthi 2019 Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.ganeshchaturthi</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/lordganesh.PNG</appicon>
-</photography>
-    <photography>
 <apptitle>Navratri Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.navratri</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/navratri.PNG</appicon>
