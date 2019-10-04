@@ -13,7 +13,12 @@
 <apptitle>Durga Maa Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.durgamaa</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/durgamaa.PNG</appicon>
-</photography>         
+</photography>  
+  <photography>
+<apptitle>Diwali 2019 Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.diwali</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/diwali.PNG</appicon>
+</photography>
 <photography>
 <apptitle>All Photo Frames Editor</apptitle>
 <applink>market://details?id=com.mydreamstore.allphotoframes</applink>
