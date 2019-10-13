@@ -4,6 +4,11 @@
 <applink>market://details?id=com.mydreamstore.photoframes.diwali</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/diwali.PNG</appicon>
 </photography> 
+ <photography>
+<apptitle>Maa Kali Mata 2019 Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.kalipooja</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/kalimata.PNG</appicon>
+</photography> 
 <photography>
 <apptitle>Flower Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.flower</applink>
