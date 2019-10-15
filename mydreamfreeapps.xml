@@ -9,6 +9,11 @@
 <applink>market://details?id=com.mydreamstore.photoframes.kalipooja</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/kalimata.PNG</appicon>
 </photography> 
+ <photography>
+<apptitle>Lakshmi Devi 2019 Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.lakshmidevi</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/lakshmidevi.PNG</appicon>
+</photography> 
 <photography>
 <apptitle>All Photo Frames Editor</apptitle>
 <applink>market://details?id=com.mydreamstore.allphotoframes</applink>
