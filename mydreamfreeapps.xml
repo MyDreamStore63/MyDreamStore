@@ -4,16 +4,11 @@
 <applink>market://details?id=com.mydreamstore.photoframes.diwali</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/diwali.PNG</appicon>
 </photography>
-<photography>
-<apptitle>Maa Kali Mata 2019 Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.kalipooja</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/kalimata.PNG</appicon>
-</photography> 
  <photography>
-<apptitle>Lakshmi Devi 2019 Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.lakshmidevi</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/lakshmidevi.PNG</appicon>
-</photography> 
+<apptitle>Garden Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.garden</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/garden.png</appicon>
+</photography>
 <photography>
 <apptitle>All Photo Frames Editor</apptitle>
 <applink>market://details?id=com.mydreamstore.allphotoframes</applink>
@@ -29,12 +24,7 @@
 <applink>market://details?id=com.mydreamstore.photoframes.love</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/love.png</appicon>
 </photography>
-        <photography>
-<apptitle>Garden Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.garden</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/garden.png</appicon>
-</photography>
-      <photography>
+<photography>
 <apptitle>Birds Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.birds</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/birds.PNG</appicon>
@@ -44,33 +34,32 @@
 <applink>market://details?id=com.mydreamstore.photoframes.goodmorning</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/goodmorning.png</appicon>
 </photography>
-    
-    <photography>
+<photography>
 <apptitle>Good Night Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.goodnight</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/goodnight.png</appicon>
 </photography>
-    <photography>
+ <photography>
 <apptitle>Happy Birthday Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.happybirthday</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/birthday.png</appicon>
 </photography>
-        <photography>
+ <photography>
 <apptitle>Nature Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.nature</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/nature.png</appicon>
 </photography>
-    <photography>
+<photography>
 <apptitle>Rainbow Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.rainbow</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/rainbow.png</appicon>
 </photography>
-        <photography>
+ <photography>
 <apptitle>Waterfall Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.waterfall</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/waterfall.png</appicon>
 </photography>
-            <photography>
+ <photography>
 <apptitle>Wedding Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.wedding</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/wedding.png</appicon>
