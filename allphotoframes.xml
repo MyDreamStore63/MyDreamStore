@@ -14,6 +14,11 @@
 <applink>market://details?id=com.mydreamstore.photoframes.waterfall</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/waterfall.png</appicon>
 </photography>
+ <photography>
+<apptitle>Village Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.village</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/villageicon.PNG</appicon>
+</photography>
 <photography>
 <apptitle>Flower Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.flower</applink>
