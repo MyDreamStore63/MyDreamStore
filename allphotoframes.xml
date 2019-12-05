@@ -29,6 +29,11 @@
 <applink>market://details?id=com.mydreamstore.photoframes.pongal</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/pongal.png</appicon>
 </photography>
+<photography>
+<apptitle>Republic Day Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.republicday</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/republic.png</appicon>
+</photography>
  <photography>
 <apptitle>Waterfall Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.waterfall</applink>
