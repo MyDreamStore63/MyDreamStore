@@ -10,11 +10,6 @@
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/wedding.png</appicon>
 </photography>
  <photography>
-<apptitle>Christmas Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.chritsmas</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/christmasicon.PNG</appicon>
-</photography>
- <photography>
 <apptitle>New Year 2020 Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.happynewyear</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/newyearicon.PNG</appicon>
