@@ -5,6 +5,11 @@
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/wedding.png</appicon>
 </photography> 
 <photography>
+<apptitle>Maha Shivratri Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.lordshiva</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/lordshiva.PNG</appicon>
+</photography>
+<photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.garden</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/garden.png</appicon>
