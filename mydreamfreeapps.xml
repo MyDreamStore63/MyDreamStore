@@ -10,6 +10,11 @@
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/lordshiva.PNG</appicon>
 </photography>
 <photography>
+<apptitle>Holi Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.holi</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/holi.PNG</appicon>
+</photography>
+<photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.garden</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/garden.png</appicon>
