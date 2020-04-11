@@ -1,4 +1,9 @@
 <photographyapps>
+   <photography>
+<apptitle>Easter Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.easter</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/easter.PNG</appicon>
+</photography>
 <photography>
 <apptitle>Wedding Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.wedding</applink>
