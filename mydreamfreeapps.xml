@@ -5,6 +5,11 @@
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/wedding.png</appicon>
 </photography> 
 <photography>
+<apptitle>All Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.allphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/photoframes.png</appicon>
+</photography>
+<photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.garden</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/garden.png</appicon>
@@ -15,11 +20,6 @@
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/waterfall.png</appicon>
 </photography>
 <photography>
-<apptitle>All Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.allphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/photoframes.png</appicon>
-</photography>
-  <photography>
 <apptitle>Village Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.village</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/village.PNG</appicon>
@@ -49,15 +49,15 @@
 <applink>market://details?id=com.mydreamstore.photoframes.goodnight</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/goodnight.png</appicon>
 </photography>
- <photography>
-<apptitle>Happy Birthday Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.happybirthday</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/birthday.PNG</appicon>
-</photography>
- <photography>
+<photography>
 <apptitle>Nature Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.nature</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/nature.png</appicon>
+</photography>
+<photography>
+<apptitle>Happy Birthday Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.happybirthday</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/birthday.PNG</appicon>
 </photography>
 <photography>
 <apptitle>Rainbow Photo Frames</apptitle>
