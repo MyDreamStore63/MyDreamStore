@@ -5,6 +5,11 @@
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/diwali.PNG</appicon>
 </photography>
 <photography>
+<apptitle>Childrens Day Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.childrensday</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/childrensay.PNG</appicon>
+</photography>
+<photography>
 <apptitle>Wedding Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.wedding</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/wedding.png</appicon>
