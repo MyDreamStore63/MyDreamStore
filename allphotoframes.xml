@@ -1,5 +1,10 @@
 <photographyapps> 
 <photography>
+<apptitle>Guru Nanak Jayanthi Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.gurunanakjayanthi</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/gurunanak.PNG</appicon>
+</photography>
+<photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.garden</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/garden.png</appicon>
