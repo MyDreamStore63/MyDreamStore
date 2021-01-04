@@ -1,4 +1,9 @@
-<photographyapps> 
+<photographyapps>
+ <photography>
+<apptitle>Vivekanada Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.vivekananda</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/viveka.PNG</appicon>
+</photography>
 <photography>
 <apptitle>Makar Sankrati Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.makarsankranti</applink>
