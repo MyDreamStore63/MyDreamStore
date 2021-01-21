@@ -1,10 +1,5 @@
 <photographyapps>
 <photography>
-<apptitle>Guru Gobind Singh Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.gurugobindsingh</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/gobindsingh.PNG</appicon>
-</photography>
-<photography>
 <apptitle>Republic Day Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.republicday</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/republic.png</appicon>
