@@ -1,10 +1,5 @@
 <photographyapps>  
 <photography>
-<apptitle>Republic Day Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.republicday</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/republic.png</appicon>
-</photography> 
-<photography>
 <apptitle>Wedding Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.wedding</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/wedding.png</appicon>
