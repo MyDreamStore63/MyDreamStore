@@ -1,5 +1,10 @@
 <photographyapps>
 <photography>
+<apptitle>Shivaji Maharaj Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.shivajimaharaj</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/shivaji.PNG</appicon>
+</photography>
+<photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.garden</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/garden.png</appicon>
