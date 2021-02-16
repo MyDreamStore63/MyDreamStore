@@ -1,4 +1,9 @@
-<photographyapps>  
+<photographyapps> 
+<photography>
+<apptitle>Shivaji Maharaj Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.shivajimaharaj</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/shivaji.PNG</appicon>
+</photography>  
 <photography>
 <apptitle>Wedding Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.wedding</applink>
