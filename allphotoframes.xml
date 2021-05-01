@@ -1,10 +1,5 @@
 <photographyapps>
 <photography>
-<apptitle>Ram Navami Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.ramnavami</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/ramnavami.png</appicon>
-</photography>
-<photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.garden</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/garden.png</appicon>
