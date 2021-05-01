@@ -1,9 +1,4 @@
-<photographyapps> 
-<photography>
-<apptitle>Ram Navami Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.ramnavami</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/ramnavami.png</appicon>
-</photography>  
+<photographyapps>  
 <photography>
 <apptitle>Wedding Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.wedding</applink>
