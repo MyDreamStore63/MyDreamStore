@@ -1,15 +1,5 @@
 <photographyapps>  
 <photography>
-<apptitle>Happy Onam Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.happyonam</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/happyonam.PNG</appicon>
-</photography>
-<photography>
-<apptitle>Raksha Bandhan Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.rakshabandhan</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/rakshabandhan.png</appicon>
-</photography>
-<photography>
 <apptitle>Janmashtami Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.janmashtami</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/janmashtami.png</appicon>
