@@ -5,6 +5,26 @@
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/diwali.png</appicon>
 </photography>
 <photography>
+<apptitle>Kali Mata Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.kalipooja</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/kalimata.PNG</appicon>
+</photography> 
+<photography>
+<apptitle>Guru Nanak Jayanti Photo Frame</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.gurunanakjayanthi</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/gurunanak.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Christmas Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.chritsmas</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/christmasicon.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Happy New Year Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.happynewyear</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/newyear.PNG</appicon>
+</photography>  
+<photography>
 <apptitle>Wedding Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.wedding</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/wedding.png</appicon>
