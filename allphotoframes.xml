@@ -1,15 +1,5 @@
 <photographyapps>
 <photography>
-<apptitle>Diwali Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.diwali</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/diwali.png</appicon>
-</photography>
-<photography>
-<apptitle>Kali Mata Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.kalipooja</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/kalimata.PNG</appicon>
-</photography> 
-<photography>
 <apptitle>Guru Nanak Jayanti Photo Frame</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.gurunanakjayanthi</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/gurunanak.PNG</appicon>
@@ -99,6 +89,11 @@
 <applink>market://details?id=com.mydreamstore.photoframes.navratri</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/navratri.PNG</appicon>
 </photography>
+<photography>
+<apptitle>Kali Mata Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.kalipooja</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/kalimata.PNG</appicon>
+</photography> 
 <photography>
 <apptitle>Lakshmi Devi Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.lakshmidevi</applink>
