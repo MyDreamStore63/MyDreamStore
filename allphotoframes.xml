@@ -1,8 +1,13 @@
 <photographyapps>
 <photography>
-<apptitle>Guru Nanak Jayanti Photo Frame</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.gurunanakjayanthi</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/gurunanak.PNG</appicon>
+<apptitle>Garden Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.garden</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/garden.png</appicon>
+</photography>
+<photography>
+<apptitle>Village Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.village</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/village.PNG</appicon>
 </photography>
 <photography>
 <apptitle>Christmas Photo Frames</apptitle>
@@ -13,16 +18,6 @@
 <apptitle>Happy New Year Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.happynewyear</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/newyear.PNG</appicon>
-</photography>
-<photography>
-<apptitle>Garden Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.garden</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/garden.png</appicon>
-</photography>
-<photography>
-<apptitle>Village Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.village</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/village.PNG</appicon>
 </photography>
 <photography>
 <apptitle>Wedding Photo Frames</apptitle>
