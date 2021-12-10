@@ -1,15 +1,5 @@
 <photographyapps> 
 <photography>
-<apptitle>Wedding Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.wedding</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/wedding.png</appicon>
-</photography> 
-<photography>
-<apptitle>All Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.allphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/photoframes.png</appicon>
-</photography>
-<photography>
 <apptitle>Christmas Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.chritsmas</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/christmasicon.PNG</appicon>
@@ -18,6 +8,16 @@
 <apptitle>Happy New Year Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.happynewyear</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/newyear.PNG</appicon>
+</photography>  
+<photography>
+<apptitle>Wedding Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.wedding</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/wedding.png</appicon>
+</photography> 
+<photography>
+<apptitle>All Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.allphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/photoframes.png</appicon>
 </photography>  
 <photography>
 <apptitle>Garden Photo Frames</apptitle>
