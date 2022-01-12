@@ -1,10 +1,5 @@
 <photographyapps> 
 <photography>
-<apptitle>Vivekanada Photo Frames</apptitle>
-<applink>market://details?id=com.mydreamstore.photoframes.vivekananda</applink>
-<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/viveka.png</appicon>
-</photography>
- <photography>
 <apptitle>Makar Sankrati Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.makarsankranti</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/sankranti.png</appicon>
@@ -113,5 +108,10 @@
 <apptitle>Gobind Singh Photo Frames</apptitle>
 <applink>market://details?id=com.mydreamstore.photoframes.gurugobindsingh</applink>
 <appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/gobind.png</appicon>
+</photography>
+ <photography>
+<apptitle>Vivekanada Photo Frames</apptitle>
+<applink>market://details?id=com.mydreamstore.photoframes.vivekananda</applink>
+<appicon>https://raw.githubusercontent.com/MyDreamStore63/MyDreamStore/master/icons/viveka.png</appicon>
 </photography>
 </photographyapps>
